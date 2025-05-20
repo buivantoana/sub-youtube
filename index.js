@@ -141,3 +141,10 @@ async function downloadOrGenerateSubtitles() {
 }
 
 downloadOrGenerateSubtitles();
+
+
+
+
+// pip install yt-dlp
+// pip install faster-whisper
+// sudo apt install ffmpeg
